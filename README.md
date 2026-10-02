@@ -10,7 +10,7 @@ newSIMPL_MultiStart.m - this is called by the "DRIVER.m" file and is used to sol
 
 rl2Err.m - this is called by the "DRIVER.m" file and is used to calculate the relative l^2 error.
 
-histograms.m - this file is used to generate Figure 6 in our paper which shows historgrams of the spread of parameters which gave an l^2 error of less than 10%.
+histograms.m - this file is used to generate Figure 6 in our paper which shows histograms of the spread of parameters which gave an l^2 error of less than 10%.
 
 phaseRunner.m - this file is used to generate Figure 3 in our paper which depicts phase portraits of our system under different equilibrium conditions.
 
